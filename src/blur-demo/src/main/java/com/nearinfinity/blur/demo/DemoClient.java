@@ -4,6 +4,7 @@ package com.nearinfinity.blur.demo;
 public class DemoClient {
 
     public static void main(String[] args) throws Exception {
+        //
 //        BlurCommand<Void> command = new BlurCommand<Void>() {
 //            @Override
 //            public Void call(Client client) throws Exception {
